@@ -21,7 +21,7 @@
       </ThreadGroup>
       <hashTree>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-          <stringProp name="filename">/Users/manisha.kumari/Downloads/argoExample/users.csv</stringProp>
+          <stringProp name="filename">/app/users.csv</stringProp>
           <stringProp name="fileEncoding"></stringProp>
           <stringProp name="variableNames"></stringProp>
           <stringProp name="delimiter">,</stringProp>
